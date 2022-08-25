@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Build-Date: 2022-08-25T10:30:20.095766+04:00
+Created-By: OpenL WebStudio v.5.26.2-SNAPSHOT
+Implementation-Title: test25au
+Build-Branch: master
+Build-Number: faeaf4901d10731975e74ab43be363608b94cb98
+Implementation-Version: DEFAULT-2022-08-25_10-30-11
+Built-By: DEFAULT
+
