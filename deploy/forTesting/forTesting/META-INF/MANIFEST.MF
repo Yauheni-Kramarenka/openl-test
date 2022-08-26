@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Build-Date: 2022-08-26T10:01:23.928178+04:00
+Created-By: OpenL WebStudio v.5.26.2-SNAPSHOT
+Implementation-Title: forTesting
+Build-Branch: master
+Build-Number: d548838165fc3f17f80da498735ac25c5a801d7b
+Implementation-Version: DEFAULT-2022-08-26_10-01-17
+Built-By: DEFAULT
+
