@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Build-Date: 2022-10-27T16:53:48.996127+04:00
+Created-By: OpenL WebStudio v.5.26.3-SNAPSHOT
+Implementation-Title: Empty Project456
+Build-Branch: master
+Build-Number: 4210edd86c1b67cf84a7f44faf084d7e596c1577
+Implementation-Version: DEFAULT-2022-10-27_16-53-37
+Built-By: DEFAULT
+
