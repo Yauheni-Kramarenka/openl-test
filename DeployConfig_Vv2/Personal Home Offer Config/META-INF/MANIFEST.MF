@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Build-Date: 2022-10-27T16:11:06.505373+04:00
+Created-By: OpenL WebStudio v.5.26.3-SNAPSHOT
+Implementation-Title: Personal Home Offer Config
+Build-Branch: master
+Build-Number: def9e8ced4a70a9ab87d37b9df4fef5d5991df39
+Implementation-Version: DEFAULT-2022-10-27_14-10-47
+Built-By: DEFAULT
+

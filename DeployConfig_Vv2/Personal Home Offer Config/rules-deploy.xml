@@ -1,0 +1,24 @@
+<rules-deploy>
+  <isProvideRuntimeContext>false</isProvideRuntimeContext>
+  <isProvideVariations>false</isProvideVariations>
+  <serviceName>personal-home-offer</serviceName>
+  <publishers>
+    <publisher>RESTFUL</publisher>
+  </publishers>
+  <url>personal-home-offer</url>
+  <version>v2</version>
+  <configuration>
+    <entry>
+      <string>jackson.defaultTypingMode</string>
+      <string>DISABLED</string>
+    </entry>
+    <entry>
+      <string>jackson.serializationInclusion</string>
+      <string>NON_EMPTY</string>
+    </entry>
+    <entry>
+      <string>jackson.propertyNamingStrategy</string>
+      <string>org.openl.rules.serialization.spr.LowerCamelCaseStrategy</string>
+    </entry>
+  </configuration>
+</rules-deploy>

@@ -1,0 +1,13 @@
+<project>
+  <name>Personal Home Offer Config</name>
+  <modules>
+    <module>
+      <name></name>
+      <rules-root path="rules/*.xlsx"/>
+    </module>
+    <module>
+      <name></name>
+      <rules-root path="configuration/*.xlsx"/>
+    </module>
+  </modules>
+</project>
