@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Build-Date: 2022-12-27T15:42:30.191699+04:00
+Created-By: OpenL WebStudio v.5.26.4-SNAPSHOT
+Implementation-Title: french
+Build-Branch: master
+Build-Number: 24d5f8ed8d96f829ccf46136477b7eeb085679c7
+Implementation-Version: DEFAULT-2022-12-27_15-42-24
+Built-By: DEFAULT
+
