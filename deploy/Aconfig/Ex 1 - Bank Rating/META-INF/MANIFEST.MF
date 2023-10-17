@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Build-Date: 2022-08-23T18:12:01.50355+04:00
-Created-By: OpenL WebStudio v.5.26.2-SNAPSHOT
-Implementation-Title: Ex 1 - Bank Rating
-Build-Branch: master
-Build-Number: 00668d701256ccf69d908df832ba8f5a9e210f7f
-Implementation-Version: DEFAULT-2022-08-23_18-10-51
-Built-By: DEFAULT
-

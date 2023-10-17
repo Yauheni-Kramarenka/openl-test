@@ -1,8 +1,0 @@
-<project>
-    <name>french</name>
-    <modules>
-        <module>
-            <rules-root path="*.xlsx"/>
-        </module>
-    </modules>
-</project>

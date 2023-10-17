@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Build-Date: 2022-11-09T16:53:32.629342+04:00
-Created-By: OpenL WebStudio v.5.25.15-SNAPSHOT
-Implementation-Title: openapi
-Build-Branch: master
-Build-Number: 458467d671518f2bd9f84f7fdf11f1495d621fec
-Implementation-Version: DEFAULT-2022-11-09_16-53-18
-Built-By: DEFAULT
-

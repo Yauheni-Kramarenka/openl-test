@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Build-Date: 2022-10-26T15:07:47.249716+04:00
-Created-By: OpenL WebStudio v.5.26.3-SNAPSHOT
-Implementation-Title: Example 2 - Corporate RatingGIT
-Build-Branch: master
-Build-Number: 9c35dd14fae905240c6974c024ed63425424daac
-Implementation-Version: DEFAULT-2022-10-26_14-26-28
-Built-By: DEFAULT
-

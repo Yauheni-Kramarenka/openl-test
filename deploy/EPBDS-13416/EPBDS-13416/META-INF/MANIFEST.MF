@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Build-Date: 2022-12-27T15:41:08.828641+04:00
-Created-By: OpenL WebStudio v.5.26.4-SNAPSHOT
-Implementation-Title: EPBDS-13416
-Build-Branch: master
-Build-Number: 3943bea30d0badd426746cc7eb8dbaa0ed746dd5
-Implementation-Version: DEFAULT-2022-12-27_15-40-51
-Built-By: DEFAULT
-
